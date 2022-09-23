@@ -1,0 +1,31 @@
+div {
+    padding: 50px;
+    margin: 20px;
+    border: 8px ridge red;
+    width: 300px;
+    float: left;
+    height: 150px;
+    }
+#one {
+    border-style: dotted;
+    border-radius: 25% 10%;
+    background: lightgreen;
+}
+#two {
+    border-style: dashed;
+    border-radius: 25% 10%;
+    background: rgb(209, 172, 103);
+}
+#three {
+    border-style: solid;
+    border-radius: 35px 10em 10%;
+    background: rgba(66, 90, 90, 0.671);
+}
+#four {
+    border-style: double;
+    border-radius: 50px 50% 50cm 50em;
+    background: rgb(46, 156, 192);
+}
+p{
+    font-size: 25px;
+    }
